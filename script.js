@@ -54,4 +54,3 @@ frames.forEach((frame) => {
     });
   });
 });
-
